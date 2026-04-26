@@ -1,2 +1,11 @@
-# unit-converter-app-1
-A simple unit converter project
+# Unit Converter
+
+Convert between different units of measurement.
+
+By Morgan
+
+## Usage
+
+```
+python converter.py
+```
